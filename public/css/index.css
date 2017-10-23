@@ -1,0 +1,105 @@
+.nav-margin {
+  margin-top: 50px;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+.card {
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.card .icon-para {
+  padding-bottom: 20px;
+}
+
+.card p {
+  letter-spacing: 1px;
+  line-height: 1.7em;
+  color: black;
+}
+
+.card i {
+  font-size: 4em;
+  padding: 45px;
+  border-radius: 50%;
+  background-color: teal;
+  color: white;
+}
+
+.testimonial,
+.after-nav-margin-top {
+  background-color: whitesmoke;
+}
+
+footer {
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+  background-color: #121212;
+  text-align: center;
+}
+
+.after-nav-margin-top {
+  margin-top: 70px;
+  margin-bottom: 0px;
+}
+
+.alignment-center {
+  text-align: center;
+}
+
+.white-background {
+  background-color: white;
+  padding-bottom: 10px;
+}
+
+.room-margin-bottom {
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+.fontBold {
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.padder {
+  padding: 50px;
+  font-size: 28px;
+}
+
+.link-marg {
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.link-pad {
+  color: white;
+  padding: 15px;
+  font-size: 15px;
+  border: 1px solid white;
+}
+
+.link-pad:hover {
+  text-decoration: none;
+  color: #3fb618;
+  background-color: white;
+}
+
+.divpad {
+  padding: 7px;
+  font-size: 15px;
+}
+
+.divspan label {
+  float: left;
+}
+
+.divpad span {
+  float: right;
+}
+
